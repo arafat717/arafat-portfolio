@@ -158,3 +158,21 @@ nav ul{
     margin-top: 50px;
     text-align: center;
 }
+/* conect style  */
+.section-tittle{
+    text-align: left;
+}
+.contect{
+    display: flex;
+    gap: 100px;
+    background: #FFF8F3;
+    padding: 130px 200px;
+}
+.contect, input, textarea{
+    margin-bottom: 24px;
+    width: 100%;
+    padding: 18px 30px;
+}
+.contect a{
+    text-decoration: none;
+}
